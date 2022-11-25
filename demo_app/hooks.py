@@ -7,6 +7,14 @@ app_description = "Demonstration"
 app_email = "isajithks@gmail.com"
 app_license = "MIT"
 
+app_logo_url = "/assets/demo_app/images/90plus_tuition.png"
+bg_image_url = "/assets/demo_app/images/bg.jpg"
+brand_html = '<img src="/assets/demo_app/images/90plus_tuition.png">&nbsp&nbsp<b>90plus Hybrid Tuition</b>'
+
+website_context = {
+    "favicon": "/assets/demo_app/images/favicon.png",
+    "splash_image": "/assets/demo_app/images/90plus_tuition.png"
+}
 # Includes in <head>
 # ------------------
 
